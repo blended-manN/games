@@ -6,13 +6,13 @@ body {
 
 .header{
     background-color: antiquewhite;
-    padding: 50px;
-    font-size: 35px;
+    padding: 15px;
+    font-size: 20px;
 }
 .column{
     width: 31.134%;
     padding: 10px;
-    height: 700px;
+    height: 500px;
     margin-inline: auto;
     background-color: antiquewhite;
     color: indianred;
@@ -23,6 +23,7 @@ body {
 .row{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .row:after{
@@ -56,12 +57,12 @@ h2 {
 }
 
 h3{
-    font-size: 30px;
+    font-size: 21.5px;
 }
 
 p {
     text-align: center;
-    font-size: 22.5px;
+    font-size: 16px;
 }
 
 
@@ -86,7 +87,7 @@ p {
 
 
 img{
-    width: 100%;
+    width: 71%;
     border-radius: 25px;
     opacity: 1.0;
 }
